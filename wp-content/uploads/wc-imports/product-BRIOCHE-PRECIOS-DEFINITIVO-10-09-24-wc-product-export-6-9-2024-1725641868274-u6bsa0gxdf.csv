@@ -1,0 +1,363 @@
+ID,Tipo,SKU,Nombre,Publicado,¿Está destacado?,Visibilidad en el catálogo,Descripción corta,Descripción,Día en que empieza el precio rebajado,Día en que termina el precio rebajado,Estado del impuesto,Clase de impuesto,¿Existencias?,Inventario,Cantidad de bajo inventario,¿Permitir reservas de productos agotados?,¿Vendido individualmente?,Peso (kg),Longitud (cm),Anchura (cm),Altura (cm),¿Permitir valoraciones de clientes?,Nota de compra,Precio rebajado,Precio normal,Precio Calculado,Categorías,Etiquetas,Clase de envío,Imágenes,Límite de descargas,Días de caducidad de la descarga,Superior,Productos agrupados,Ventas dirigidas,Ventas cruzadas,URL externa,Texto del botón,Posición,Nombre del atributo 1,Valor(es) del atributo 1,Atributo visible 1,Atributo global 1,Nombre del atributo 2,Valor(es) del atributo 2,Atributo visible 2,Atributo global 2,Nombre del atributo 3,Valor(es) del atributo 3,Atributo visible 3,Atributo global 3,TAZA BCV,Taza Paralelo
+7684,variable,,Pizza de Pepperoni,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, pepperoni.","Nuestra pizza de pepperoni, elaborada con una masa casera, con nuestra salsa de la casa, hecha con tomates frescos y especias, una capa de queso mozzarella fundido y pepperoni, que le da un toque irresistible. Es una pizza perfecta para cualquier ocasión. ¡Pídela ya y disfruta!",,,taxable,,1,,,0,0,1.2,10.3,5.4,6.7,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/PIZZA_peperonni-1.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,"36,7","43,15"
+7685,variable,,Refresco,1,0,visible,"¡Sumérgete en el mundo de los refrescos! Clásicos revitalizantes, dulces y de sabores únicos. ¡Una aventura de sabor en cada sorbo!",¡Una explosión de sabores que despiertan los sentidos! Cada sorbo da una sensación de frescura y una invitación a disfrutar con cada burbuja.,,,taxable,,1,,,0,0,1.2,10.3,5.4,6.7,1,,,,,Bebidas,"Bebidas frias, Delivery, Gaseosas, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/refrescos.png,,,,,,,,,0,Sabor:,"Coca-Cola, Pepsi, Chinotto, Frescolita, Manzana",1,0,Presentación,"Lata 355ml, 355ml, 1 Litro, 1.5 Litros, 2 Litros",1,0,,,,,,
+7686,simple,,Desayuno Brioche,1,0,hidden,"El Desayuno Brioche es una combinación irresistible de café o jugo, waffle o tostadas, huevo, jamón, queso amarillo, tocineta, granola y miel. ¡Una sinfonía matutina que te hará sonreír!","Con una taza de café recién hecho o un jugo fresco te espera el desayuno Brioche. Con waffle o tostadas, miel, huevo perfectamente cocinado a tu gusto, jamón, queso amarillo, tocineta crujiente y granola que completa este festín matutino inolvidable.",,,taxable,,1,,,0,0,,,,,1,,,8,"345,2",Desayunos,"Menú en Tienda, Menú La Brioche Café & Market",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Desayuno-Brioche.png,,,,,,,,,0,,,,,,,,,,,,,,
+7687,simple,,Desayuno Americano,1,0,hidden,"Un plato repleto de delicias: una tostada dorada y crujiente, con huevo frito, jamón, queso amarillo, tocineta y miel, creando un equilibrio entre lo salado y lo dulce. Acompaña este festín con una taza de café caliente o un vaso de jugo refrescante.","Comienza tu día con un Desayuno Americano. Tostadas crujientes, huevo frito, jamón y queso amarillo que se combina con la dulzura de la miel y tocineta crujiente. Acompáñalo con una taza humeante de café o un refrescante jugo para completar esta experiencia matutina que te hará sentir como en casa. ¡Disfruta de este clásico desayuno que te transportará directamente a las cafeterías de Estados Unidos!",,,taxable,,1,,,0,0,,,,,1,,,8,"345,2",Desayunos,"Menú en Tienda, Menú La Brioche Café & Market",,"https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Desayuno-Americano.png, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240314-WA0013.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240314-WA0014.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240314-WA0012.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240314-WA0011.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240314-WA0010.jpg",,,,,,,,,0,,,,,,,,,,,,,,
+7689,variable,,Cachito,1,0,visible,"¡Prueba nuestros únicos y deliciosos cachitos! De sabor auténtico, nuestros cachitos recién horneados, son el complemento perfecto para cualquier hora del día.
+\n
+\n<!--  	<link href=""https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"" rel=""stylesheet"">
+\n     	<link href=""https://getbootstrap.com/docs/5.3/assets/css/docs.css"" rel=""stylesheet"">
+\n
+\n<script src=""https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js""></script> -->
+\n
+\n<!-- Example Code -->
+\n
+\n<style>
+\n      .btn-primary{
+\n        background-color:#C1753D;
+\n        border-color:#C1753D
+\n      }
+\n      .btn-primary:active {
+\n        color:#222222 !important;
+\n        background-color: white !important; /* Color de fondo al presionar */
+\n        border-color: #222222 !important; /* Color del borde al presionar */
+\n         /* Puedes agregar más estilos aquí */
+\n      }
+\n      .btn-primary:hover {
+\n        background-color: #222222; /* Color de fondo al pasar el mouse */
+\n        border-color: #222222; /* Color del borde al pasar el mouse */
+\n        /* Puedes agregar más estilos aquí */
+\n      }</style>
+\n<p class=""d-inline-flex gap-1""><a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample1"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample1"">Cachitos de Jamón <strong>$1,00</strong></a>
+\n<a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample2"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample2"">Cachitos de Jamón y Queso <strong>$1,00</strong></a>
+\n<a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample3"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample3"">Cachitos de Jamón y Tocineta <strong>$1,50</strong></a></p>
+\n
+\n<div class=""row"">
+\n<div class=""col"">
+\n<div id=""multiCollapseExample1"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Clásico desayuno, de masa suave y que envuelve el sabor del jamón.</div>
+\n</div>
+\n</div>
+\n<div class=""col"">
+\n<div id=""multiCollapseExample2"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Combinación única e irresistbile, perfecta para comenzar el día.</div>
+\n</div>
+\n</div>
+\n<div class=""col"">
+\n<div id=""multiCollapseExample3"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Una experiencia rica con su mezcla de texturas y el toque único de la tocineta.</div>
+\n</div>
+\n</div>
+\n</div>","Nuestros cachitos, horneados a la perfección, ofrecen una combinación irresistible de masa suave y un relleno exquisito de jamón, o jamón y queso, o jamón y tocineta. Ideal para desayunos o meriendas, este delicioso manjar es la elección perfecta para quienes valoran la calidad y el sabor auténtico.",,,taxable,,1,,,0,0,,,,,1,,,,,Desayunos,"Menú en Tienda, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/cachito.png,,,,,,,,,0,Relleno,"Jamón, Jamón y queso, Jamón y tocineta",1,0,,,,,,,,,,
+7690,simple,,Saladito,1,0,visible,"Si quieres probar algo rico y rápido, prueba los Saladitos. Con su característica masa hojaldrada y con rellenos variados que te encantarán. Todos a un precio inigualable y con un sabor irresistible. No te quedes sin probarlos.","Deliciosos saladitos horneados con su característica masa de hojaldre, con variedad de rellenos que te harán agua la boca, muy económicos y sabrosos. Ideales para compartir en cualquier ocasión.",,,taxable,,1,,,0,0,,,,,1,,,"1,5","64,725",Desayunos,"Menú en Tienda, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Saladito-1.png,,,,,,,,,0,Relleno,"Jamón y queso amarillo, Jamón de pavo y queso crema, Queso ricotta y espinaca, Queso ricotta y ajo porro, Pollo",1,0,,,,,,,,,,
+7691,simple,,Mini Lunch,1,0,visible,"Disfruta de nuestro delicioso y nutritivo Mini Lunch, relleno con una combinación única que te hará agua la boca. Su masa suave y esponjosa, su relleno cremoso y sabroso, y su cobertura crujiente y dorada te conquistarán desde el primer mordisco. ¡Pruébalo ya!","¿Buscas una opción rápida y fácil para cualquier hora del día? Prueba Mini Lunch, el pan relleno que tiene todo lo que te gusta. Su combinación de ingredientes te aporta proteínas, minerales y energía, mientras que su textura y sabor te satisfacen el paladar. ¡No te quedes sin probarlo!",,,taxable,,1,,,0,0,,,,,1,,,"1,9","81,985",Desayunos,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Placeholder_Label.png,,,,,,,,,0,,,,,,,,,,,,,,
+7692,simple,,Croissant,1,0,visible,Un croissant crujiente y dorado que esconde un delicioso relleno de jamon y queso suave. ¡Una combinación inolvidable!,"Disfruta de un desayuno o una merienda irresistible con nuestro Croissant relleno de jamon y queso. Se trata de un panecillo de hojaldre horneado hasta obtener una textura crujiente y un color dorado, que alberga en su interior una generosa porción de jamon, y queso suave que se funde en la boca. Un bocado lleno de sabor y calidad que te hará sentir que estás en Francia.",,,taxable,,1,,,0,0,,,,,1,,,3,"129,45",Desayunos,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Placeholder_Label.png,,,,,,,,,0,,,,,,,,,,,,,,
+7693,variable,,Pizza Margarita,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella.","Una pizza clásica y elegante de masa casera que se cubre con una capa de salsa de tomate casera y queso mozzarella fundido. Una pizza sencilla, pero de irresistible sabor.",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Margarita-1.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7694,variation,,Pizza Margarita - Pequeña,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,3,"110,1",,,,,,,id:7693,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7695,variation,,Pizza Margarita - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,5,"183,5",,,,,,,id:7693,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7696,variable,,Pizza de Jamón y Queso,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella y jamón.","Si te gustan las pizzas sencillas pero sabrosas, esta es la opción ideal para ti. Una pizza con una masa casera, cubierta con nuestra salsa de la casa, una capa de queso mozzarella y jamón. Una combinación de sabores que te hará repetir.",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/PIZZA_JYQ.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7697,variation,,Pizza de Jamón y Queso - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,3,"110,1",,,,,,,id:7696,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7698,variation,,Pizza de Jamón y Queso - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,5,"183,5",,,,,,,id:7696,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7699,variable,,Pizza Tocineta,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, tocineta.","Salsa, queso y tocineta. Los tres ingredientes que hacen de esta pizza una delicia para el paladar. La salsa de la casa está elaborada con ingredientes naturales y le da un sabor único a la masa, el queso mozzarella se funde en cada porción y la tocineta aporta el punto crujiente y salado que contrasta con el dulzor de la salsa. Una pizza que no te dejará indiferente.",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Pizza-de-Tocineta.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7700,variation,,Pizza Tocineta - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para compartir en pareja o solo.",,,taxable,parent,1,,,0,0,,,,,0,,,4,"146,8",,,,,,,id:7699,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7701,variation,,Pizza Tocineta - Grande,1,0,visible,,"La pizza mediana trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,"7,5","275,25",,,,,,,id:7699,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7702,variable,,Pizza Vegetales,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, maíz, champiñones, aceitunas negras, pimentón y cebolla.","Si te gustan los sabores naturales y nutritivos, esta pizza de vegetales es para ti. Está elaborada con una deliciosa salsa de la casa, queso mozzarella derretido y una combinación de champiñones, maíz, aceitunas negras, cebolla y pimentón. Cada bocado te hará sentir el gusto de los vegetales recién cortados y la masa crujiente. Es una opción ideal para compartir con tu familia o amigos.",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/vegetales.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7703,variation,,Pizza Vegetales - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,4,"146,8",,,,,,,id:7702,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7704,variation,,Pizza Vegetales - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,"7,5","275,25",,,,,,,id:7702,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7705,variable,,Pizza Mediterránea,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, champiñones, aceitunas negras, tomates confitados, pepperoni o salchichón.","Si te gustan los sabores intensos y variados, no te pierdas nuestra pizza mediterránea. Elaborada con salsa de la casa, queso mozzarella, salchichón o pepperoni, champiñones, tomates confitados y aceitunas negras. Una combinación perfecta que te dejará con gana de más.",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú La Brioche Café & Market, Menú Le Petit Brioche",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Pizza-Mediterranea.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7706,variation,,Pizza Mediterránea - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,6,"220,2",,,,,,,id:7705,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7707,variation,,Pizza Mediterránea - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,"9,5","348,65",,,,,,,id:7705,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7708,variable,,Pizza Napolitana,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, anchoas, tomates confitados, pimentón y queso pecorino.","Disfruta de una Pizza Napolitana, una obra maestra de la gastronomía italiana. Esta pizza tiene una base crujiente y esponjosa, cubierta con una salsa de la casa hecha con tomates frescos y hierbas aromáticas. Encima, una capa de queso mozzarella fundido que se mezcla con el sabor salado de las anchoas, el toque picante del pimentón, el dulzor de los tomates confitados y el aroma del queso pecorino. Una pizza que no te dejará indiferente.",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/pizza-napolitana.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7709,variation,,Pizza Napolitana - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,"3,5","128,45",,,,,,,id:7708,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7710,variation,,Pizza Napolitana - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,"7,5","275,25",,,,,,,id:7708,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7711,variable,,Pizza Zendaya,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, tocineta, salchichón, cebolla caramelizada y queso pecorino.","Si te gustan las pizzas con mucho sabor, no te puedes perder la Pizza Zendaya. Esta pizza tiene una base de salsa de la casa, una mezcla secreta de tomates, hierbas y especias que le da un toque especial. Encima lleva queso mozzarella fundido, salchichón milano cortado en finas lonchas, tocineta crujiente, cebolla caramelizada que aporta un contraste dulce y queso pecorino rallado que le da un punto salado. La Pizza Zendaya es una explosión de sabor en cada bocado. ¡Pruébala y te enamorarás!",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú La Brioche Café & Market, Menú Le Petit Brioche",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/product.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7712,variation,,Pizza Zendaya - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,"4,5","165,15",,,,,,,id:7711,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7713,variation,,Pizza Zendaya - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,"9,5","348,65",,,,,,,id:7711,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7714,variable,,Pizza Brioche,1,0,visible,"<h3>Ingredientes:</h3>
+\nSalsa de la casa, mozzarella, tocineta, pepperoni, jamón, aceitunas negras, champiñones, cebolla, maíz y pimentón.","Si quieres disfrutar de una pizza única y deliciosa, no puedes dejar de pedir nuestra especial Pizza Brioche. Esta pizza tiene una masa esponjosa y crujiente, cubierta con una salsa de la casa que le da un toque especial. Es una pizza ideal para compartir con tus amigos o familiares, o para darte un capricho. ¡No esperes más y pídela ya!",,,taxable,,1,,,0,0,,,,,1,,,,,Pizzas,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/PIZZA_BRIOCHEl.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+7715,variation,,Pizza Brioche - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,"6,5","238,55",,,,,,,id:7714,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7716,variation,,Pizza Brioche - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,"11,5","422,05",,,,,,,id:7714,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7717,simple,,Palmerita Grande,1,0,visible,"Una palmerita grande, crujiente y deliciosa. Un bocado irresistible para los amantes del dulce.","Disfruta de una deliciosa y clásica Palmerita, que con su característica masa de hojaldre, te dejará soñando con más.",,,taxable,,1,,,0,0,,,,,1,,,"1,2","51,78",Panadería y repostería,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/palmera.png,,,,,,,,,0,Tamaño,"Grandes, Pequeñas, Grandes con chocolate",1,0,Presentación,"100gr, 250gr, 500gr, 1kg, Individual",1,0,,,,,,
+7723,variable,,Galletas de pasta seca,1,0,visible,"Si buscas unas galletas que combinen a la perfección con tu bebida favorita, no te pierdas nuestras galletas de pasta seca. Estas galletas tienen una textura firme y quebradiza, y un sabor suave y dulce, realzado por el aroma de la vainilla. Están hechas siguiendo una receta tradicional especial de la casa. Disfruta de estas galletas en el desayuno, la merienda o como snack, y compártelas con tus seres queridos.","¿Te apetece un bocado crujiente y delicioso? Prueba nuestras galletas de pasta seca, elaboradas con ingredientes naturales y un toque de vainilla. Son ideales para acompañar el café o el té, o para darte un capricho a cualquier hora del día.",,,taxable,,1,,,0,0,,,,,1,,,,,Panadería y repostería,"Delivery, Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/product.png,,,,,,,,,0,Presentación,"100gr, 250gr, 500gr, 1kg",1,0,,,,,,,,,,
+7724,variation,,Galletas de pasta seca - 100gr,1,0,visible,,,,,taxable,parent,1,,,0,0,0.1,,,,0,,,"1,42","61,273",,,,,,,id:7723,,,,,,1,Presentación,100gr,,0,,,,,,,,,,
+7725,variation,,Galletas de pasta seca - 250gr,1,0,visible,,,,,taxable,parent,1,,,0,0,0.25,,,,0,,,"3,55","153,1825",,,,,,,id:7723,,,,,,2,Presentación,250gr,,0,,,,,,,,,,
+7726,variation,,Galletas de pasta seca - 500gr,1,0,visible,,,,,taxable,parent,1,,,0,0,0.5,,,,0,,,"7,1","306,365",,,,,,,id:7723,,,,,,3,Presentación,500gr,,0,,,,,,,,,,
+7727,variation,,Galletas de pasta seca - 1kg,1,0,visible,,,,,taxable,parent,1,,,0,0,1,,,,0,,,"14,2","612,73",,,,,,,id:7723,,,,,,4,Presentación,1kg,,0,,,,,,,,,,
+7735,variation,,Pizza de Pepperoni - Pequeña,1,0,visible,,"La pizza pequeña trae 4 porciones, ideal para disfrutar solo.",,,taxable,parent,1,,,0,0,,,,,0,,,"3,5","128,45",,,,,,,id:7684,,,,,,1,Tamaño,Pequeña,,0,,,,,,,,,,
+7736,variation,,Pizza de Pepperoni - Grande,1,0,visible,,"La pizza grande trae 8 porciones, ideal para compartir con la familia o los amigos. ",,,taxable,parent,1,,,0,0,,,,,0,,,6,"220,2",,,,,,,id:7684,,,,,,2,Tamaño,Grande,,0,,,,,,,,,,
+7737,variation,,"Refresco - Coca-Cola, Lata 355ml",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/lata.png,,,id:7685,,,,,,16,Sabor:,Coca-Cola,,0,Presentación,Lata 355ml,,0,,,,,,
+7738,variation,,"Refresco - Coca-Cola, 355ml",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/unnamed.png,,,id:7685,,,,,,17,Sabor:,Coca-Cola,,0,Presentación,355ml,,0,,,,,,
+7739,variation,,"Refresco - Coca-Cola, 1 Litro",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,66","71,629",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/1-litro.png,,,id:7685,,,,,,18,Sabor:,Coca-Cola,,0,Presentación,1 Litro,,0,,,,,,
+7740,variation,,"Refresco - Coca-Cola, 1.5 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,9","81,985",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/coca-1.5.png,,,id:7685,,,,,,19,Sabor:,Coca-Cola,,0,Presentación,1.5 Litros,,0,,,,,,
+7741,variation,,"Refresco - Coca-Cola, 2 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"2,64","113,916",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/Pet-2-Litros-Coca-Cola-PNG.png,,,id:7685,,,,,,20,Sabor:,Coca-Cola,,0,Presentación,2 Litros,,0,,,,,,
+7743,simple,,Sándwich de jamón y queso,1,0,visible,"Disfruta de un delicioso sándwich de jamón y queso, con pan deli, lechuga fresca, tomates confitados y salsas tradicionales. Un bocado irresistible que te hará agua la boca.","¿Te apetece un sándwich de jamón y queso? Prueba nuestro sándwich elaborado con pan deli, jamón de primera calidad, queso amarillo fundido, lechuga crujiente, tomates confitados al horno y salsas tradicionales. Un sándwich lleno de sabor, textura y aroma que te encantará.",,,taxable,,1,,,0,0,,,,,1,,,"3,5","151,025",Sándwiches,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Sandwich-de-jamon-y-queso.png,,,,,,,,,0,,,,,,,,,,,,,,
+7745,simple,,Sándwich de pollo ahumado,1,0,visible,"¿Te apetece un bocado delicioso y lleno de sabor? Prueba nuestro Sándwich de Pollo Ahumado, una combinación perfecta de pan deli, pollo ahumado, jamón, queso amarillo, lechuga, tomates confitados y salsas tradicionales. ¡No te arrepentirás!","Nuestro Sándwich de Pollo Ahumado es una opción ideal para los amantes de la comida casera. Disfruta de un pan deli suave y crujiente, relleno de pollo ahumado jugoso y tierno, jamón de calidad, queso amarillo derretido, lechuga fresca y crujiente, tomates confitados dulces y ácidos y salsas tradicionales que le dan el toque final. ¡Un sándwich que te hará sentir como en casa!",,,taxable,,1,,,0,0,,,,,1,,,6,"258,9",Sándwiches,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Sandwich-de-pollo-ahumado.png,,,,,,,,,0,,,,,,,,,,,,,,
+7746,simple,,Sándwich Pastrami,1,0,visible,"¿Te apetece un bocado delicioso y lleno de sabor? Prueba nuestro Sándwich Pastrami, con pan deli, carne tierna, queso fundido, lechuga crujiente, tomates confitados y salsas tradicionales. ¡Te encantará!","Si buscas una opción sabrosa y nutritiva para tu almuerzo, no te pierdas nuestro Sándwich Pastrami. Está elaborado con pan deli recién horneado, pastrami de calidad, queso amarillo cremoso, lechuga fresca, tomates confitados al horno y salsas tradicionales que le dan un toque especial. Es un sándwich que combina lo mejor de la cocina americana y mediterránea, y que te hará disfrutar de cada mordisco.",,,taxable,,1,,,0,0,,,,,1,,,6,"258,9",Sándwiches,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Placeholder_Label.png,,,,,,,,,0,,,,,,,,,,,,,,
+7747,simple,,Sandwich Roast Beef,1,0,hidden,"Disfruta de un delicioso sándwich de roast beef con queso amarillo, lechuga, tomates confitados y salsas tradicionales, todo entre dos rebanadas de pan deli. ¡Un bocado irresistible!","Si te gusta la carne, no te puedes perder este sándwich de roast beef. Tiene jugosas lonchas de roast beef, queso amarillo fundido, lechuga crujiente, tomates confitados con un toque dulce y salsas tradicionales que le dan un sabor único. Todo ello en un pan deli tierno y esponjoso. Es el sándwich perfecto para saciar tu apetito y deleitar tu paladar.",,,taxable,,1,,,0,0,,,,,1,,,6,"258,9",Sándwiches,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Sandwich-Roast-Beaf.png,,,,,,,,,0,,,,,,,,,,,,,,
+7748,simple,,Bruschettas,1,0,hidden,"El sabor de Italia en tu mesa. Disfruta de unas tostadas, tomates jugosos, ajo y pesto casero. Un entrante sencillo y sabroso que hará las delicias de todos. Prueba las bruschettas y viaja al país de la pasta y la pizza con cada mordisco.","Las bruschettas, un aperitivo italiano que combina varios ingredientes en una delicia para el paladar. Las bruschettas son las entradas perfectas para compartir con tus amigos o familiares. Tan simple como tostadas doradas y crujientes, tomates jugosos, ajo y pesto casero.",,,taxable,,1,,,0,0,,,,,1,,,"2,5","107,875",Entradas,"Menú en Tienda, Menú La Brioche Café & Market",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Placeholder_Label-1.png,,,,,,,,,0,,,,,,,,,,,,,,
+7749,simple,,Carpaccio de Lau Lau,1,0,hidden,"Disfruta de unas finas láminas de Lau Lau, un pescado exótico y sabroso, con una capa de cebolla, pimienta, alcaparra y aceite de oliva.","Si quieres probar algo diferente y delicioso, te recomendamos el Carpaccio de Lau Lau, un pescado exótico que se corta muy fino, El resultado es un carpaccio suave, jugoso y lleno de sabor.",,,taxable,,1,,,0,0,,,,,1,,,8,"345,2",Entradas,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Carpaccio.png,,,,,,,,,0,,,,,,,,,,,,,,
+7751,simple,,Brownie con helado,1,0,visible,Un delicioso postre que combina el sabor intenso del chocolate con la frescura del helado. Una explosión de sabor para tu paladar.,"El postre perfecto para los amantes del chocolate. Disfruta de un trozo de brownie caliente, cubierto con una bola de helado cremoso. Siente cómo se mezclan las temperaturas y los sabores en cada bocado.",,,taxable,,1,,,0,0,,,,,1,,,4,"172,6",Postres,"Menú en Tienda, Menú La Brioche Café & Market",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Brownie-con-helado.png,,,,,,,,,0,,,,,,,,,,,,,,
+7752,variable,,Nescafé®,1,0,visible,"¡Despierta tus sentidos con Nescafé! Cada sorbo es una invitación a un mundo de sabor intenso y cremosidad inigualable, perfecto para comenzar tu día con energía.
+\n
+\n <style>
+\n      .btn-primary,.btn-primary:focus{
+\n        background-color:#C1753D; 
+\n        border-color:#C1753D;
+\n      }
+\n      .btn-primary:active {
+\n        color:#222222 !important;
+\n        background-color: white !important; /* Color de fondo al presionar */
+\n        border-color: #222222 !important; /* Color del borde al presionar */
+\n         /* Puedes agregar más estilos aquí */
+\n      }
+\n      .btn-primary:hover {
+\n        background-color: #222222; /* Color de fondo al pasar el mouse */
+\n        border-color: #222222; /* Color del borde al pasar el mouse */
+\n        /* Puedes agregar más estilos aquí */
+\n      }</style>
+\n        
+\n    <p class=""d-inline-flex gap-1"" style=""flex-wrap:wrap;"">
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample1"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Latte Vainilla
+\n      </button>
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample2"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Mokaccino
+\n      </button>
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample3"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Bebida Achocolatada <strong>SAVOY®</strong>
+\n      </button>
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample4"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Cappuccino vainilla
+\n      </button>
+\n    </p>
+\n    <div class=""collapse"" id=""collapseExample1"" style="""">
+\n      <div class=""card card-body"">
+\n        ¿Te gusta el café con un toque dulce y cremoso? Entonces te encantará el Latte Vainilla instantáneo de NESCAFÉ®. Es una deliciosa bebida que combina el sabor intenso del café con la suavidad de la leche y el aroma de la vainilla. Sólo pídelo y a disfrutar de un momento de placer para ocasión.
+\n      </div>
+\n    </div>
+\n    <div class=""collapse"" id=""collapseExample2"" style="""">
+\n      <div class=""card card-body"">
+\n        ¿Te apetece un café con leche y chocolate? Prueba el Mocaccino NESCAFÉ®, una deliciosa bebida que combina el sabor intenso del café, la cremosidad de la leche y el toque dulce del chocolate. Sólo disfrutar de un momento de placer achocolatado.
+\n      </div>
+\n    </div>
+\n    <div class=""collapse"" id=""collapseExample3"" style="""">
+\n      <div class=""card card-body"">
+\n        ¿Te gusta el chocolate? Entonces te encantará la Bebida achocolatada SAVOY®, una deliciosa mezcla de cacao y leche que se prepara en segundos. Disfruta de su cremosa textura y su intenso sabor a chocolate en cualquier momento del día. ¡Es la bebida perfecta para los amantes del chocolate!
+\n      </div>
+\n    </div>
+\n    <div class=""collapse"" id=""collapseExample4"" style="""">
+\n      <div class=""card card-body"">
+\n        Disfruta de un delicioso Cappuccino vainilla NESCAFÉ®, una bebida cremosa y aromática. Una bebida única con espuma suave y un sabor irresistible a vainilla. ¡Pruébalo y déjate seducir por su dulzura!
+\n      </div>
+\n    </div>","Nescafé transforma cada mañana en una experiencia exquisita. Imagina la combinación perfecta de granos de café arábica y robusta, cuidadosamente seleccionados para ofrecerte una taza de café con cuerpo, rica en aromas y sabores que capturan la esencia de los mejores cafetales del mundo. Con Nescafé, cada taza es una obra maestra que promete no solo despertarte, sino también deleitarte con su sabor único y su textura suave y aterciopelada. Ya sea que prefieras el característico sabor del mokaccino o la suavidad de un latte vainilla, Nescafé tiene la bebida perfecta para satisfacer tus antojos y revitalizar tu día. Vive la pasión por el café con Nescafé, donde cada taza es una promesa de placer y calidad que solo una marca líder mundial puede ofrecerte.",,,taxable,,1,,,0,0,,,,,1,,,,,"Bebidas, Café","Bebidas calientes, Café, Café con leche, Chocolate, Menú en Tienda, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Nescafe.png,,,,,,,,,0,Sabor:,"Mokaccino, Latte Vainilla, Bebida Achocolatada SAVOY®, Cappuccino vainilla",1,0,,,,,,,,,,
+7753,variable,,Café,1,0,visible,"El café, esa bebida negra y aromática que despierta los sentidos y conforta el alma. En su forma más pura, es un elixir oscuro y potente, capaz de transformar las mañanas más sombrías en un amanecer lleno de posibilidades.","El café no es solo una bebida, es una experiencia multisensorial. Desde el método de filtrado, que captura la esencia de los granos tostados, hasta el arte del barista que crea obras maestras con leche espumosa, cada taza es una invitación a un viaje de sabor y aroma. Ya sea un espresso intenso, un capuchino cremoso o un latte artísticamente elaborado, el café ofrece un mundo de complejidad y placer para explorar.",,,taxable,,1,,,0,0,,,,,1,,,,,"Bebidas, Café","Bebidas calientes, Bebidas frias, Café, Café con leche, Café frio, Chocolate, Menú en Tienda, Menú La Brioche Café & Market",,"https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Cafe.png, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/latte1.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240323-WA0197.jpg",,,,,,,,,0,Tipo,"Frio, Caliente",1,0,Sabor,"Expreso, Expreso doppio, Americano, Entreverado, Guayoyo, Con leche, Marrón, Frappuccino, Cappuccino frappé, Latte vainilla frappé, Latte canela frappé",1,0,Tamaño,"Pequeño, Grande",1,0,,
+7754,variation,,Café,1,0,visible,,"El café americano, una bebida de sabor suave y perfil claro, nace de la sencilla pero elegante fusión de un espresso robusto con agua caliente.",,,taxable,parent,1,,,0,0,,,,,0,,,"0,76","32,794",,,,,,,id:7753,,,,,,15,Tipo,Caliente,,0,Sabor,Americano,,0,Tamaño,Pequeño,,0,,
+7755,variation,,Café,1,0,visible,,"El café americano, una bebida de sabor suave y perfil claro, nace de la sencilla pero elegante fusión de un espresso robusto con agua caliente.",,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_161721.png,,,id:7753,,,,,,16,Tipo,Caliente,,0,Sabor,Americano,,0,Tamaño,Grande,,0,,
+7756,variation,,Nescafé® - Mokaccino,1,0,visible,,"¿Te apetece un café con leche y chocolate? Prueba el Mocaccino NESCAFÉ®, una deliciosa bebida que combina el sabor intenso del café, la cremosidad de la leche y el toque dulce del chocolate. Sólo disfrutar de un momento de placer achocolatado.",,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:7752,,,,,,3,Sabor:,Mokaccino,,0,,,,,,,,,,
+7757,variation,,Nescafé® - Latte Vainilla,1,0,visible,,¿Te gusta el café con un toque dulce y cremoso? Entonces te encantará el Latte Vainilla instantáneo de NESCAFÉ®. Es una deliciosa bebida que combina el sabor intenso del café con la suavidad de la leche y el aroma de la vainilla. Sólo pídelo y a disfrutar de un momento de placer para ocasión.,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:7752,,,,,,2,Sabor:,Latte Vainilla,,0,,,,,,,,,,
+7758,variation,,Nescafé® - Bebida Achocolatada SAVOY®,1,0,visible,,"¿Te gusta el chocolate? Entonces te encantará la Bebida achocolatada SAVOY®, una deliciosa mezcla de cacao y leche que se prepara en segundos. Disfruta de su cremosa textura y su intenso sabor a chocolate en cualquier momento del día. ¡Es la bebida perfecta para los amantes del chocolate!",,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,,,,id:7752,,,,,,4,Sabor:,Bebida Achocolatada SAVOY®,,0,,,,,,,,,,
+7759,variation,,Nescafé® - Cappuccino vainilla,1,0,visible,,"Disfruta de un delicioso Cappuccino vainilla NESCAFÉ®, una bebida cremosa y aromática. Una bebida única con espuma suave y un sabor irresistible a vainilla. ¡Pruébalo y déjate seducir por su dulzura!",,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:7752,,,,,,1,Sabor:,Cappuccino vainilla,,0,,,,,,,,,,
+7761,simple,,Combo: 3 Mini Donas,1,0,visible,"Las mini donas son un festín para los sentidos: pequeñas, pero con un sabor inigualable en cada mordisco. Son el bocado perfecto para endulzar cualquier momento del día.","Con una cobertura crujiente y un interior esponjoso, estas delicias son la combinación perfecta de textura y dulzura. Ya sea que prefieras las clásicas glaseadas, o las extravagantes con chispas de colores, las mini donas son el capricho ideal que invita a ser compartido… ¡o a disfrutar en solitario!",,,taxable,,1,,,0,0,,,,,1,,,"1,5","64,725",Panadería y repostería,"Combos, Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,"https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/donas2.png, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240316-WA0025-1.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240316-WA0026-1.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240316-WA0051-1.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240316-WA0057-1.jpg, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240316-WA0067-1.jpg",,,,,,,,,0,,,,,,,,,,,,,,
+7762,variation,,"Refresco - Pepsi, Lata 355ml",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/pepsi-lata.png,,,id:7685,,,,,,1,Sabor:,Pepsi,,0,Presentación,Lata 355ml,,0,,,,,,
+7763,variation,,"Refresco - Chinotto, Lata 355ml",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/chinotto-lata.png,,,id:7685,,,,,,2,Sabor:,Chinotto,,0,Presentación,Lata 355ml,,0,,,,,,
+7764,variation,,"Refresco - Frescolita, Lata 355ml",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/frescolita-lata.png,,,id:7685,,,,,,3,Sabor:,Frescolita,,0,Presentación,Lata 355ml,,0,,,,,,
+7765,variation,,"Refresco - Pepsi, 1 Litro",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,66","71,629",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/pepsi-1lt.png,,,id:7685,,,,,,4,Sabor:,Pepsi,,0,Presentación,1 Litro,,0,,,,,,
+7766,variation,,"Refresco - Chinotto, 1 Litro",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,66","71,629",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/chinotto-1lt.png,,,id:7685,,,,,,5,Sabor:,Chinotto,,0,Presentación,1 Litro,,0,,,,,,
+7767,variation,,"Refresco - Frescolita, 1 Litro",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,66","71,629",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/frescolita-1lt.png,,,id:7685,,,,,,6,Sabor:,Frescolita,,0,Presentación,1 Litro,,0,,,,,,
+7768,variation,,"Refresco - Manzana, 1 Litro",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,66","71,629",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/manzanita-1Lt.png,,,id:7685,,,,,,7,Sabor:,Manzana,,0,Presentación,1 Litro,,0,,,,,,
+7769,variation,,"Refresco - Pepsi, 1.5 Litros",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,9","81,985",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/pepsi-1.5.png,,,id:7685,,,,,,8,Sabor:,Pepsi,,0,Presentación,1.5 Litros,,0,,,,,,
+7770,variation,,"Refresco - Chinotto, 1.5 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,9","81,985",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/chinotto-1.5lt.png,,,id:7685,,,,,,9,Sabor:,Chinotto,,0,Presentación,1.5 Litros,,0,,,,,,
+7771,variation,,"Refresco - Frescolita, 1.5 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,9","81,985",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/frescolita-1.5.png,,,id:7685,,,,,,10,Sabor:,Frescolita,,0,Presentación,1.5 Litros,,0,,,,,,
+7772,variation,,"Refresco - Manzana, 1.5 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,9","81,985",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/manzanita-1.5LT.png,,,id:7685,,,,,,11,Sabor:,Manzana,,0,Presentación,1.5 Litros,,0,,,,,,
+7773,variation,,"Refresco - Pepsi, 2 Litros",1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"2,64","113,916",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/pepsi-2l.png,,,id:7685,,,,,,12,Sabor:,Pepsi,,0,Presentación,2 Litros,,0,,,,,,
+7774,variation,,"Refresco - Chinotto, 2 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"2,64","113,916",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/chinotto-2lt.png,,,id:7685,,,,,,13,Sabor:,Chinotto,,0,Presentación,2 Litros,,0,,,,,,
+7775,variation,,"Refresco - Frescolita, 2 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"2,64","113,916",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/frescolita-2lt.png,,,id:7685,,,,,,14,Sabor:,Frescolita,,0,Presentación,2 Litros,,0,,,,,,
+7776,variation,,"Refresco - Manzana, 2 Litros",0,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"2,64","113,916",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/manzanita-2LT.png,,,id:7685,,,,,,15,Sabor:,Manzana,,0,Presentación,2 Litros,,0,,,,,,
+7777,variation,,Café,1,0,visible,,"Espresso es una bebida deliciosa y energizante que se prepara con café molido muy fino y agua a alta presión. Su sabor es intenso, aromático y ligeramente amargo, con una crema suave y dorada en la superficie. Ven y prueba nuestro espresso, te alegrará el día y te dará un impulso de vitalidad.",,,taxable,parent,1,,,0,0,,,,,0,,,"0,8","34,52",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_172650.png,,,id:7753,,,,,,5,Tipo,Caliente,,0,Sabor,Expreso,,0,Tamaño,Pequeño,,0,,
+7778,variation,,Café,1,0,visible,,"El Espresso doppio es una bebida de café que consiste en dos dosis de espresso servidas en una taza. Tiene un sabor fuerte y concentrado, con un aroma que invita a disfrutarlo. Es ideal para los amantes del café que buscan una experiencia intensa y estimulante.",,,taxable,parent,1,,,0,0,,,,,0,,,"0,8","34,52",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_172650.png,,,id:7753,,,,,,6,Tipo,Caliente,,0,Sabor,Expreso doppio,,0,Tamaño,Pequeño,,0,,
+7779,variation,,Café,1,0,visible,,"El café entreverado, una experiencia única que captura la esencia del vigoroso café americano y la suavidad del guayoyo venezolano. Es la elección perfecta para aquellos que buscan un equilibrio entre intensidad y delicadeza en su taza de café. ",,,taxable,parent,1,,,0,0,,,,,0,,,"0,76","32,794",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_161721.png,,,id:7753,,,,,,7,Tipo,Caliente,,0,Sabor,Entreverado,,0,Tamaño,Pequeño,,0,,
+7780,variation,,Café,1,0,visible,,"El café guayoyo, una joya de la tradición venezolana, es un deleite para los sentidos. Con su aroma cautivador y su sabor equilibrado, ofrece una experiencia única que refleja la rica cultura del país. Este café claro, conocido por su suave sabor y su preparación práctica, es una bebida cotidiana que acompaña a los venezolanos en sus mañanas y tardes, simbolizando momentos de unión y calidez familiar.",,,taxable,parent,1,,,0,0,,,,,0,,,"0,76","32,794",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_161721.png,,,id:7753,,,,,,8,Tipo,Caliente,,0,Sabor,Guayoyo,,0,Tamaño,Pequeño,,0,,
+7781,variation,,Café,1,0,visible,,"El café con leche es una bebida clásica que despierta los sentidos con su equilibrio perfecto entre la riqueza del café recién molido y la suavidad de la leche caliente. Es el compañero ideal para cualquier momento del día, ofreciendo un abrazo reconfortante con cada sorbo.",,,taxable,parent,1,,,0,0,,,,,0,,,"0,9","38,835",,,,,,,id:7753,,,,,,9,Tipo,Caliente,,0,Sabor,Con leche,,0,Tamaño,Pequeño,,0,,
+7782,variation,,Café,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:7753,,,,,,10,Tipo,Caliente,,0,Sabor,Marrón,,0,Tamaño,Pequeño,,0,,
+7783,variation,,Café,1,0,visible,,"El café entreverado, una experiencia única que captura la esencia del vigoroso café americano y la suavidad del guayoyo venezolano. Es la elección perfecta para aquellos que buscan un equilibrio entre intensidad y delicadeza en su taza de café. ",,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_161721.png,,,id:7753,,,,,,11,Tipo,Caliente,,0,Sabor,Entreverado,,0,Tamaño,Grande,,0,,
+7784,variation,,Café,1,0,visible,,"El café guayoyo, una joya de la tradición venezolana, es un deleite para los sentidos. Con su aroma cautivador y su sabor equilibrado, ofrece una experiencia única que refleja la rica cultura del país. Este café claro, conocido por su suave sabor y su preparación práctica, es una bebida cotidiana que acompaña a los venezolanos en sus mañanas y tardes, simbolizando momentos de unión y calidez familiar.",,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/PhotoRoom-20240320_161721.png,,,id:7753,,,,,,12,Tipo,Caliente,,0,Sabor,Guayoyo,,0,Tamaño,Grande,,0,,
+7785,variation,,Café,1,0,visible,,"El café con leche es una bebida clásica que despierta los sentidos con su equilibrio perfecto entre la riqueza del café recién molido y la suavidad de la leche caliente. Es el compañero ideal para cualquier momento del día, ofreciendo un abrazo reconfortante con cada sorbo.",,,taxable,parent,1,,,0,0,,,,,0,,,"1,3","56,095",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240313-WA0013.jpg,,,id:7753,,,,,,13,Tipo,Caliente,,0,Sabor,Con leche,,0,Tamaño,Grande,,0,,
+7786,variation,,Café,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240313-WA0013.jpg,,,id:7753,,,,,,14,Tipo,Caliente,,0,Sabor,Marrón,,0,Tamaño,Grande,,0,,
+7787,variation,,Café,1,0,visible,,"El frappuccino es una explosión de frescura y sabor en cada sorbo. Imagina una mezcla cremosa de café intenso y hielo triturado, coronada con una suave nata y espolvoreada con tu sirope favorito. Es la bebida perfecta para revitalizar tus tardes y deleitar tus sentidos, ¡una verdadera celebración en un vaso!",,,taxable,parent,1,,,0,0,,,,,0,,,4,"172,6",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240323-WA0197.jpg,,,id:7753,,,,,,4,Tipo,Frio,,0,Sabor,Frappuccino,,0,Tamaño,Grande,,0,,
+7788,variation,,Café,1,0,visible,,"El Cappuccino frappé es una delicia helada que combina la intensidad del café con la suavidad de la crema y el dulce encanto del helado de vainilla. Perfecto para refrescar cualquier tarde de verano, este capricho se sirve frío, invitando a cada sorbo a ser una experiencia de puro placer. ¡Una bebida que despierta los sentidos y conquista el paladar!",,,taxable,parent,1,,,0,0,,,,,0,,,4,"172,6",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240323-WA0197.jpg,,,id:7753,,,,,,1,Tipo,Frio,,0,Sabor,Cappuccino frappé,,0,Tamaño,Grande,,0,,
+7789,variation,,Café,1,0,visible,,"El latte vainilla frappé es una deliciosa fusión de hielo triturado, leche cremosa y un toque de vainilla exótica, coronado con una suave capa de espuma. Es la bebida perfecta para refrescar tu día y deleitar tus sentidos. ¡Una experiencia helada que no querrás perderte!",,,taxable,parent,1,,,0,0,,,,,0,,,4,"172,6",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240323-WA0197.jpg,,,id:7753,,,,,,2,Tipo,Frio,,0,Sabor,Latte vainilla frappé,,0,Tamaño,Grande,,0,,
+7790,variation,,Café,1,0,visible,,"El latte canela frappé es una deliciosa obra maestra helada, perfecta para los amantes del café con un toque especiado. Imagina una mezcla cremosa de café intenso, leche fría y hielo picado, todo ello realzado con un dulce susurro de canela. Este frappé no solo es un festín para el paladar, sino también un espectáculo visual con su corona de espuma y un toque final de canela en polvo que lo hace irresistible. ¡Es la bebida ideal para refrescar tus días y deleitar tus sentidos!",,,taxable,parent,1,,,0,0,,,,,0,,,4,"172,6",,,,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/03/IMG-20240323-WA0197.jpg,,,id:7753,,,,,,3,Tipo,Frio,,0,Sabor,Latte canela frappé,,0,Tamaño,Grande,,0,,
+7791,simple,,Cervezas Nacionales,1,0,visible,"Descubre el sabor auténtico de Venezuela con nuestra selección de cervezas nacionales. Desde la robusta Polar Negra hasta la refrescante Polar Light, la exquisita Solera Verde, la sofisticada Solera Azul y la tradicional Zulia, tenemos una cerveza para cada paladar. Disfrútalas por unidad o en un conveniente tobo de 12.","Sumérgete en la rica tradición cervecera de Venezuela con nuestra gama de cervezas nacionales, perfectas para cualquier ocasión. La Polar Negra te envuelve con su cuerpo intenso y notas de malta tostada, mientras que la Polar Light ofrece una experiencia ligera y revitalizante. La Solera Verde es una invitación a disfrutar de sutiles toques cítricos, en contraste con la Solera Azul, que seduce con su equilibrio y carácter. Y no olvidemos la Zulia, con su sabor genuino que captura la esencia de la tierra venezolana. Ya sea que prefieras disfrutarlas individualmente o compartir un tobo de 12 con amigos, estas cervezas son el acompañante ideal para celebrar la vida y la amistad.",,,taxable,,1,,,0,0,,,,,1,,,1,"43,15","Bebidas, Licores","Menú en Tienda, Menú La Brioche Café & Market",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Cervezas.png,,,,,,,,,0,Tipo,"Polar Negra, Polar Light, Solera Azul, Solera Verde, Zulia",1,0,Cantidad,"Por unidad, Por tobo (12 unidades)",1,0,Presentación,"Botella retornable 222ml, Lata 222ml",1,0,,
+7802,simple,,Cócteles,1,0,visible,"Sumérgete en un mundo de sabores vibrantes con nuestra selección de cócteles. Desde el dulce y refrescante Daiquirí de fresa hasta el enigmático Cielo Azul, cada sorbo promete deleitar tus sentidos.",Ven y prueba nuestros cócteles. Cada cóctel está cuidadosamente elaborado para garantizar una experiencia que se quedará contigo mucho después del último trago.,,,taxable,,1,,,0,0,,,,,1,,,4,"172,6","Bebidas, Licores","Menú en Tienda, Menú La Brioche Café & Market",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Cocteles.png,,,,,,,,,0,Coctél,"Cielo azul, Daiquirí de fresa, Daiquirí de parchita, Mojito, Piña colada, Tinto de verano",1,0,,,,,,,,,,
+7809,simple,,Milhojas,1,0,visible,"Milhojas, la delicia que encanta con su crujiente dulzura y cremoso relleno.","La milhojas, un postre característico por sus capas de hojaldre, intercaladas con suave crema pastelera, crean una textura que es a la vez delicada y satisfactoria. Cada milhojas es una invitación a deleitarse en cada capa de sabor y disfrutar de un clásico que nunca pasa de moda.",,,taxable,,1,,,0,0,,,,,1,,,"1,5","64,725","Panadería y repostería, Postres","Delivery, Menú en Tienda, Menú La Brioche Café & Market, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/MIlhoja.png,,,,,,,,,0,,,,,,,,,,,,,,
+7881,simple,,Combo: 2 Cachitos + 1 Malta,1,0,visible,"Dos cachitos dorados y una malta bien fría, ¡la pareja perfecta para disfrutar!","Dos cachitos recién horneados, rellenos de jamón y queso derretido, acompañados de una malta fría y refrescante, perfecta para saciar la sed y el apetito.",,,taxable,,1,,,0,0,,,,,1,,,2,"86,3","Bebidas, Combos, Desayunos","Bebidas frias, Combos, Menú en Tienda, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Combo-2-cachitos-y-malta.png,,,,,,,,,0,,,,,,,,,,,,,,
+7882,simple,,Empanada (Unidad),1,0,visible,"La empanada, el clásico alimento que combina sabor, portabilidad y calidad. Estas delicias fritas y rellenas son la comida perfecta cuando se trata de versatilidad y sabor.","¡Las empanadas son un festín crujiente que encierra sabores vibrantes en una cáscara dorada! Esta delicia tradicional viene con una variedad de rellenos a escoger y se fríe hasta alcanzar la perfección. Cada mordida es una aventura culinaria, un viaje de texturas y gustos que celebran la diversidad de la cocina.",,,taxable,,1,,,0,0,,,,,1,,,"0,8","34,52",Desayunos,"Menú en Tienda, Menú Le Petit Brioche",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Empanada-1.png,,,,,,,,,0,,,,,,,,,,,,,,
+8025,simple,,Combo: 2 Empanadas + 1 Malta,1,0,visible,"El combo perfecto: empanadas irresistibles, recién fritas y rellenas de sabores exquisitos, acompañadas de una malta refrescante que satisface tu sed con cada sorbo. La combinación de la masa crujiente de las empanadas y el dulzor de la malta la hace una opción ideal y deliciosa para cualquier momento del día.","¡Descubre el sabor auténtico con nuestro combo especial! Dos empanadas doradas y crujientes, rellenas de tu elección, acompañadas de una refrescante malta, la bebida perfecta para realzar los sabores intensos.",,,taxable,,1,,,0,0,,,,,1,,,"2,5","107,875","Bebidas, Combos, Desayunos","Bebidas frias, Combos, Menú en Tienda, Menú Le Petit Brioche, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Combo-2-empanadas-y-malta.png,,,,,,,,,0,,,,,,,,,,,,,,
+8059,simple,,Rol de canela,1,0,visible,"Un dulce horneado espiralado con un rico relleno de canela, azúcar y cubierto con glaseado.","El rol de canela es un pastelito de masa suave, que se enrolla con una mezcla de canela y azúcar morena, con un glaseado dulce. Este postre es apreciado por su textura esponjosa y su sabor cálido y reconfortante, siendo un acompañante ideal para el café o como un capricho indulgente en cualquier momento del día.",,,taxable,,1,,,0,0,,,,,1,,,"0,7","30,205","Panadería y repostería, Postres","Menú en Tienda, Menú Le Petit Brioche",,"https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Disponible-solo-en-tienda.png, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/ROL-DE-CANELA2-copia.png",,,,,,,,,0,,,,,,,,,,,,,,
+8063,simple,,Golfeado,1,0,visible,"Disfruta con cada mordisco del Golfeado, un rollo de masa esponjosa que esconde en su corazón papelón y queso blanco.",El Golfeado es un postre venezolano que encanta a primera vista con su espiral dorada y aroma dulce. Su textura suave y el contraste entre el dulce papelón y el salado queso blanco lo convierten en una experiencia culinaria única.,,,taxable,,1,,,0,0,,,,,1,,,"0,7","30,205","Panadería y repostería, Postres","Menú en Tienda, Menú Le Petit Brioche",,"https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Golfeado-1.png, https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/GOLFEADO.png",,,,,,,,,0,,,,,,,,,,,,,,
+8198,simple,,Bombas,1,0,visible,"¡Explosión de sabor! Bombas rellenas de la más suave crema pastelera o la irresistible choco Nutella, ¡un deleite en cada mordida!""","Descubre el dulce secreto de nuestras bombas, donde cada una esconde un corazón cremoso de auténtica crema pastelera o la tentadora choco Nutella. Hechas con pasión y los mejores ingredientes, estas bombas son la combinación perfecta de tradición e innovación.",,,taxable,,1,,,0,0,,,,,1,,,"0,9","38,835","Panadería y repostería, Postres","Menú en Tienda, Menú Le Petit Brioche",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/06/Bomba.png,,,,,,,,,0,,,,,,,,,,,,,,
+8200,simple,,Calzone,1,0,visible,¡Explora el sabor auténtico de Italia con nuestro Calzone relleno! Salsa casera y quesos mozzarella y pecorino se unen en una experiencia culinaria inolvidable.,"Sumérgete en la riqueza del queso mozzarella fundido y el distintivo sabor del pecorino, todo perfectamente envuelto en nuestro Calzone artesanal. La salsa de la casa añade el toque final a esta obra maestra italiana.",,,taxable,,1,,,0,0,,,,,1,,,5,"215,75",Panadería y repostería,"Menú en Tienda, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/06/Calzone.png,,,,,,,,,0,Tamaño,"Pequeña, Grande",1,0,,,,,,,,,,
+8204,variation,,Cachito - Jamón y queso,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:7689,,,,,,2,Relleno,Jamón y queso,,0,,,,,,,,,,
+8205,variation,,Cachito - Jamón y tocineta,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,,,,id:7689,,,,,,3,Relleno,Jamón y tocineta,,0,,,,,,,,,,
+8208,variation,,Cachito - Jamón,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:7689,,,,,,0,Relleno,Jamón,,0,,,,,,,,,,
+8766,variable,,Cachito,1,0,visible,"¡Prueba nuestros únicos y deliciosos cachitos! De sabor auténtico, nuestros cachitos recién horneados, son el complemento perfecto para cualquier hora del día.
+\n
+\n<!--  	<link href=""https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"" rel=""stylesheet"">
+\n     	<link href=""https://getbootstrap.com/docs/5.3/assets/css/docs.css"" rel=""stylesheet"">
+\n
+\n<script src=""https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js""></script> -->
+\n
+\n<!-- Example Code -->
+\n
+\n<style>
+\n      .btn-primary{
+\n        background-color:#C1753D;
+\n        border-color:#C1753D
+\n      }
+\n      .btn-primary:active {
+\n        color:#222222 !important;
+\n        background-color: white !important; /* Color de fondo al presionar */
+\n        border-color: #222222 !important; /* Color del borde al presionar */
+\n         /* Puedes agregar más estilos aquí */
+\n      }
+\n      .btn-primary:hover {
+\n        background-color: #222222; /* Color de fondo al pasar el mouse */
+\n        border-color: #222222; /* Color del borde al pasar el mouse */
+\n        /* Puedes agregar más estilos aquí */
+\n      }</style>
+\n<p class=""d-inline-flex gap-1""><a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample1"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample1"">Cachito de Jamón y Queso <strong>$1,00</strong></a>
+\n<a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample2"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample2"">Cachito de Jamón y Queso Crema <strong>$1,50</strong></a>
+\n
+\n<div class=""row"">
+\n<div class=""col"">
+\n<div id=""multiCollapseExample1"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Clásico desayuno, de masa suave, que envuelve el sabor del jamón y el queso.</div>
+\n</div>
+\n</div>
+\n<div class=""col"">
+\n<div id=""multiCollapseExample2"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Combinación única e irresistbile, perfecta para comenzar el día.</div>
+\n</div>
+\n</div>
+\n</div>","¿Te gustan los cachitos? Entonces no te puedes perder los deliciosos cachitos que te ofrecemos para satisfacer todos los gustos. Tenemos el cachito perfecto para ti. Ven y prueba nuestros cachitos, crujientes por fuera y cremosos por dentro, ideales para cualquier ocasión.",,,taxable,,1,,,0,0,,,,,1,,,,,Desayunos,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/cachito-3.png,,,,,,,,,0,Relleno,"Jamón y queso, Jamón y queso crema",1,0,,,,,,,,,,
+8767,variation,,Cachito - Jamón y queso,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:8766,,,,,,0,Relleno,Jamón y queso,,0,,,,,,,,,,
+8768,variation,,Cachito - Jamón y queso crema,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,,,,id:8766,,,,,,2,Relleno,Jamón y queso crema,,0,,,,,,,,,,
+8772,variable,,Saladito,1,0,visible,"Si quieres probar algo rico y rápido, prueba los Saladitos. Con su característica masa hojaldrada y con rellenos variados que te encantarán. Todos a un precio inigualable y con un sabor irresistible. No te quedes sin probarlos.
+\n
+\n<style>
+\n      .btn-primary{
+\n        background-color:#C1753D;
+\n        border-color:#C1753D
+\n      }
+\n      .btn-primary:active {
+\n        color:#222222 !important;
+\n        background-color: white !important; /* Color de fondo al presionar */
+\n        border-color: #222222 !important; /* Color del borde al presionar */
+\n         /* Puedes agregar más estilos aquí */
+\n      }
+\n      .btn-primary:hover {
+\n        background-color: #222222; /* Color de fondo al pasar el mouse */
+\n        border-color: #222222; /* Color del borde al pasar el mouse */
+\n        /* Puedes agregar más estilos aquí */
+\n      }</style>
+\n<p class=""d-inline-flex gap-1""><a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample1"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample1"">Jamón y Queso <strong>$1,50</strong></a>
+\n<a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample2"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample2"">Jamón y Queso Crema <strong>$1,60</strong></a>
+\n<a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample3"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample3"">Pollo <strong>$1,90</strong></a>
+\n<a class=""btn btn-primary collapsed"" role=""button"" href=""#multiCollapseExample4"" data-bs-toggle=""collapse"" aria-expanded=""false"" aria-controls=""multiCollapseExample4"">Queso Ricotta y espinaca <strong>$2,00</strong></a>
+\n
+\n<div class=""row"">
+\n<div class=""col"">
+\n<div id=""multiCollapseExample1"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Delicioso desayuno que se transforma en bocados crujientes y dorados, perfectos para cualquier ocasión.</div>
+\n</div>
+\n</div>
+\n<div class=""col"">
+\n<div id=""multiCollapseExample2"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Una combinación de sabores que deleita al paladar.</div>
+\n</div>
+\n</div>
+\n<div class=""col"">
+\n<div id=""multiCollapseExample3"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Delicia culinaria que combina la jugosidad del pollo con el toque crujiente de la masa de hojaldre.</div>
+\n</div>
+\n</div>
+\n<div class=""col"">
+\n<div id=""multiCollapseExample4"" class=""multi-collapse collapse"">
+\n<div class=""card card-body"">Opción ligera y nutritiva, ideal para quienes buscan un bocado saludable y lleno de sabor.</div>
+\n</div>
+\n</div>
+\n</div>","Deliciosos saladitos horneados con su característica masa de hojaldre, rellenos de diferentes ingredientes que te harán agua la boca. Puedes elegir entre jamón con queso, jamón con queso crema, queso ricotta con espinaca y de pollo. Ideales para compartir en cualquier ocasión.",,,taxable,,1,,,0,0,,,,,1,,,,,Desayunos,"Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/07/Brioche-en-tienda.png,,,,,,,,,0,Relleno,"Jamón y queso, Jamón y queso crema, Queso ricotta con espinaca, Pollo",1,0,,,,,,,,,,
+8775,variation,,Saladito - Jamón y queso,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,,,,id:8772,,,,,,1,Relleno,Jamón y queso,,0,,,,,,,,,,
+8776,variation,,Saladito - Jamón y queso crema,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,6","69,04",,,,,,,id:8772,,,,,,2,Relleno,Jamón y queso crema,,0,,,,,,,,,,
+8777,variation,,Saladito - Queso ricotta con espinaca,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,,,,id:8772,,,,,,3,Relleno,Queso ricotta con espinaca,,0,,,,,,,,,,
+8778,variation,,Saladito - Pollo,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,9","81,985",,,,,,,id:8772,,,,,,4,Relleno,Pollo,,0,,,,,,,,,,
+8803,variable,,Té,1,0,visible,"Disfruta de la refrescante variedad de tés fríos y calientes, desde el exótico sabor de Jamaica hasta la tranquilidad de la manzanilla y la vitalidad del té negro y verde.
+\n
+\n <style>
+\n      .btn-primary,.btn-primary:focus{
+\n        background-color:#C1753D; 
+\n        border-color:#C1753D;
+\n      }
+\n      .btn-primary:active {
+\n        color:#222222 !important;
+\n        background-color: white !important; /* Color de fondo al presionar */
+\n        border-color: #222222 !important; /* Color del borde al presionar */
+\n         /* Puedes agregar más estilos aquí */
+\n      }
+\n      .btn-primary:hover {
+\n        background-color: #222222; /* Color de fondo al pasar el mouse */
+\n        border-color: #222222; /* Color del borde al pasar el mouse */
+\n        /* Puedes agregar más estilos aquí */
+\n      }</style>
+\n        
+\n    <p class=""d-inline-flex gap-1"" style=""flex-wrap:wrap;"">
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample1"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Manzanilla <strong>$1,00</strong>
+\n      </button>
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample2"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Té Negro <strong>$1,00</strong>
+\n      </button>
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample3"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Té Verde <strong>$1,00</strong>
+\n      </button>
+\n      <button class=""btn btn-primary collapsed"" type=""button"" data-bs-toggle=""collapse"" data-bs-target=""#collapseExample4"" aria-expanded=""false"" aria-controls=""collapseExample"">
+\n        Jamaica <strong>$1,50</strong>
+\n      </button>
+\n    </p>
+\n    <div class=""collapse"" id=""collapseExample1"" style="""">
+\n      <div class=""card card-body"">Infusión milenaria apreciada por sus propiedades digestivas, antiinflamatorias y calmantes.
+\n      </div>
+\n    </div>
+\n    <div class=""collapse"" id=""collapseExample2"" style="""">
+\n      <div class=""card card-body"">Con su intensidad y profundidad de sabor, es una bebida clásica que encanta a los paladares más exigentes.
+\n      </div>
+\n    </div>
+\n    <div class=""collapse"" id=""collapseExample3"" style="""">
+\n      <div class=""card card-body"">Infusión de renombre por su frescura y tonalidad verdosa-dorada.
+\n      </div>
+\n    </div>
+\n    <div class=""collapse"" id=""collapseExample4"" style="""">
+\n      <div class=""card card-body"">Té de tonalidad carmesí y gusto exótico, es ideal para deleitar el paladar y revitalizar el cuerpo.
+\n      </div>
+\n    </div>","Sumérgete en el mundo de los tés con nuestra selección que promete deleitar tus sentidos. Puedes revitalizar tu día con un té de Jamaica, conocido por su intenso color rojo y sabor único que captura la esencia del trópico. O, si prefieres algo más tradicional, opta por la manzanilla calmante, perfecta para relajarse después de un largo día; el robusto té negro, ideal para empezar la mañana con energía; o el té verde, lleno de antioxidantes y un aliado para tu bienestar. Cada sorbo es una invitación a una experiencia de sabor inolvidable.",,,taxable,,1,,,0,0,,,,,1,,,,,Bebidas,"Bebidas calientes, Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Placeholder_Label.png,,,,,,,,,0,Sabor:,"Manzanilla, Té Negro, Té Verde, Jamaica",1,0,,,,,,,,,,
+8805,variation,,Té - Manzanilla,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:8803,,,,,,1,Sabor:,Manzanilla,,0,,,,,,,,,,
+8806,variation,,Té - Té Negro,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:8803,,,,,,2,Sabor:,Té Negro,,0,,,,,,,,,,
+8807,variation,,Té - Té Verde,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:8803,,,,,,3,Sabor:,Té Verde,,0,,,,,,,,,,
+8808,variation,,Té - Jamaica,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,,,,id:8803,,,,,,4,Sabor:,Jamaica,,0,,,,,,,,,,
+8815,variable,,Frappé,1,0,visible,"¡Refresca tu día con un delicioso frappe! Elige entre una variedad de sabores exóticos como parchita, limón, fresa, melocotón, piña, naranja, lechosa y melón, todos a precios accesibles. ¡Perfectos para combatir el calor!","En verano, nada mejor que un frappe helado para disfrutar del clima tropical. Nuestro menú ofrece una selección de sabores que capturan la esencia de la fruta fresca: desde la acidez vibrante del limón hasta la dulzura suave de la lechosa, cada sorbo es una invitación a saborear la frescura. Tenemos opciones para todos los gustos. ¡Ven y encuentra tu sabor favorito hoy mismo!",,,taxable,,1,,,0,0,,,,,1,,,,,Bebidas,"Bebidas calientes, Menú en Tienda, Menú La Brioche Café & Market, Pick Up",,https://le-petit.labrioche.com.ve/wp-content/uploads/2024/05/Placeholder_Label.png,,,,,,,,,0,Sabor:,"Parchita, Limón, Fresa, Melocotón, Piña, Naranja, Lechosa, Melón",1,0,,,,,,,,,,
+8820,variation,,Frappé - Parchita,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,3","56,095",,,,,,,id:8815,,,,,,1,Sabor:,Parchita,,0,,,,,,,,,,
+8821,variation,,Frappé - Limón,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,5","64,725",,,,,,,id:8815,,,,,,2,Sabor:,Limón,,0,,,,,,,,,,
+8822,variation,,Frappé - Fresa,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,,,,id:8815,,,,,,3,Sabor:,Fresa,,0,,,,,,,,,,
+8823,variation,,Frappé - Melocotón,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,2,"86,3",,,,,,,id:8815,,,,,,4,Sabor:,Melocotón,,0,,,,,,,,,,
+8824,variation,,Frappé - Piña,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,2","51,78",,,,,,,id:8815,,,,,,5,Sabor:,Piña,,0,,,,,,,,,,
+8825,variation,,Frappé - Naranja,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"1,2","51,78",,,,,,,id:8815,,,,,,6,Sabor:,Naranja,,0,,,,,,,,,,
+8826,variation,,Frappé - Lechosa,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,"0,6","25,89",,,,,,,id:8815,,,,,,7,Sabor:,Lechosa,,0,,,,,,,,,,
+8827,variation,,Frappé - Melón,1,0,visible,,,,,taxable,parent,1,,,0,0,,,,,0,,,1,"43,15",,,,,,,id:8815,,,,,,8,Sabor:,Melón,,0,,,,,,,,,,
